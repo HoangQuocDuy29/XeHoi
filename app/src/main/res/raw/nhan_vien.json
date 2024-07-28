@@ -1,0 +1,20 @@
+[
+  {
+    "ten": "Nguyễn Văn A",
+    "viTri": "Kỹ sư",
+    "phongBan": "IT",
+    "luong": 1000
+  },
+  {
+    "ten": "Trần Thị B",
+    "viTri": "Nhân viên kinh doanh",
+    "phongBan": "Kinh doanh",
+    "luong": 1200
+  },
+  {
+    "ten": "Lê Văn C",
+    "viTri": "Quản lý",
+    "phongBan": "Hành chính",
+    "luong": 1500
+  }
+]
